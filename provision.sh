@@ -3,6 +3,6 @@ echo google-chrome, iterm2, telegram, slack, shiftit, intellij-idea, flycut, vir
   tr , '\n' | \
   while read formula; do brew cask install $formula; done
 
-echo docker, docker-machine |\
+echo docker, docker-machine, node, awscli |\
   tr , '\n' | \
   while read formula; do brew install $formula; done
