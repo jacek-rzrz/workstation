@@ -1,0 +1,7 @@
+[user]
+	name = Jacek Rz
+	email = jacek@rzrz.pl
+[alias]
+	co = checkout
+	ci = commit
+	st = status
